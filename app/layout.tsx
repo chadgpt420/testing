@@ -6,7 +6,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
     <html lang="en">
       <head>
         <title>Paperdoll Stats</title>
-        <meta name="description" content="Character stats tracking for Paperdoll" />
+        <meta name="description" content="Character stats tracking" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body className="bg-gray-900 text-white">
